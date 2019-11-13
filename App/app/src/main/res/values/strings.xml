@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HSR Test App</string>
+    <string name="message">Congratulation, you deployed your first app.</string>
+</resources>
