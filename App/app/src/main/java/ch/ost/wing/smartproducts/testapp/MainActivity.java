@@ -1,4 +1,4 @@
-package ch.hsr.wing.smartproducts.testapp;
+package ch.ost.wing.smartproducts.testapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
